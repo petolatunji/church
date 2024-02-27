@@ -19,7 +19,27 @@
 .mainTitle {
   font-weight: bold;
   text-align: center;
-  margin-top: 16px;
+  margin-top: 20px;
+}
+
+.mainTit {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 8px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.quote{
+  font-style: italic;
+}
+.btext{
+  font-weight: bold;
+}
+
+.bullet{
+  font-weight: bold;
+
 }
 
 .ulDiv{
@@ -28,9 +48,14 @@
 
 .ul{
   list-style: decimal;
+  padding-left: 8px;
 }
 
 .li{
   text-align: justify;
+  
 }
 
+/* .par::first-letter{
+font-size: 200%;
+} */
